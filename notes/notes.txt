@@ -1,5 +1,3 @@
-Great question! When you run `npm install express cors mongoose dotenv`, you're installing four essential Node.js packages for backend development (MERN stack). Here's why each one is important:
-
 ### 1. **Express (`express`)**
 - **What it does**: A minimal web framework for Node.js
 - **Why we need it**:
